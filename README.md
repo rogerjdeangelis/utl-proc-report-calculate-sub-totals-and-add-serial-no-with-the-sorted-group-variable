@@ -7,6 +7,14 @@ Proc report calculate sub totals and add serial no with the sorted group variabl
 
     Ypu may be able to do tis with a single proc report but you might
     be painted into a corner.
+       
+    github
+    https://tinyurl.com/y74r5ajp
+    https://github.com/rogerjdeangelis/utl-proc-report-calculate-sub-totals-and-add-serial-no-with-the-sorted-group-variable
+  
+    SAS Forum
+    https://tinyurl.com/yc3afhzm
+    https://communities.sas.com/t5/SAS-Procedures/Need-to-calculate-sub-total-total-and-to-generate-serial-no/m-p/524224
 
     INPUT
     =====
